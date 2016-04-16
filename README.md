@@ -1,3 +1,5 @@
+By while() loop. [Default]
+
 # OSS Write Raw PHP [WP Plugin]
 - Contributors: Open Source Solver [OSS]
 - Requires at least: WP 3.5
