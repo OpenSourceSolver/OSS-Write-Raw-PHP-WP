@@ -1,4 +1,4 @@
-# OSS Write Raw PHP
+# OSS Write Raw PHP [WP Plugin]
 Contributors: Open Source Solver [OSS]
 Requires at least: 3.5
 Tested up to: 4.4
@@ -6,9 +6,6 @@ Tags: WP PHP, Write PHP, Code PHP, PHP Coding, Use PHP, WP Plugin, Open, Source,
 
 # Description About OSS WRPHP
 - You can write your raw PHP code in your WordPress.
-
-Contact: Open Source Solver, OpenSourceSolver@gmail.com 
-FB: http://www.facebook.com/OpenSourceSolver
 
 # OSS WRPHP Installation
 - Download zip file from the Online WordPress Plugin Directory [https://wordpress.org/plugins/]
@@ -22,3 +19,7 @@ FB: http://www.facebook.com/OpenSourceSolver
 # Changelog 
 - V 1.0
 Initial Release 
+
+# Contact
+- Open Source Solver, OpenSourceSolver@gmail.com
+- http://www.facebook.com/OpenSourceSolver
